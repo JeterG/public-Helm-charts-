@@ -1,0 +1,7 @@
+apiVersion: v1
+name: Browse file system Using RESTapi
+version: 0.1.0
+description: Browsable Directory RESTapi that can be used to list/create/update/delete files and directories!
+keywords:
+  - fastapi,Uvicorn,docker,python3,python,openapi,swagger
+home: https://github.com/JeterG/Browsable-Directory-RESTapi
