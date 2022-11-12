@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   Browse file system Using RESTapi:
   - apiVersion: v1
-    created: "2022-11-11T20:51:26.603751536-05:00"
+    created: "2022-11-11T21:03:49.269979415-05:00"
     description: Browsable Directory RESTapi that can be used to list/create/update/delete
       files and directories!
     digest: cd9f2fcdff5585f3ef2ca642f9781cf852961cb2e781641982525bbc519aeb1b
@@ -13,4 +13,17 @@ entries:
     urls:
     - https://github.com/JeterG/public-Helm-charts-/Browse%20file%20system%20Using%20RESTapi-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-11T20:51:26.603440631-05:00"
+  Browse-file-system-UsingRESTapi:
+  - apiVersion: v1
+    created: "2022-11-11T21:03:49.270123797-05:00"
+    description: Browsable Directory RESTapi that can be used to list/create/update/delete
+      files and directories!
+    digest: 78c9518c2471a637c7a2d4075c6c94b58827e997b0e7d53d3e5f9906f0618784
+    home: https://github.com/JeterG/Browsable-Directory-RESTapi
+    keywords:
+    - fastapi,Uvicorn,docker,python3,python,openapi,swagger
+    name: Browse-file-system-UsingRESTapi
+    urls:
+    - https://github.com/JeterG/public-Helm-charts-/Browse-file-system-UsingRESTapi-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-11T21:03:49.269649431-05:00"

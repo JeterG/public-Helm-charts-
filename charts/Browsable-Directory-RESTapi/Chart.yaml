@@ -1,5 +1,5 @@
 apiVersion: v1
-name: Browse file system Using RESTapi
+name: Browse-file-system-UsingRESTapi
 version: 0.1.0
 description: Browsable Directory RESTapi that can be used to list/create/update/delete files and directories!
 keywords:
